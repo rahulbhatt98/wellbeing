@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Mark OT';
+    src: url('MarkOT-Medium.eot');
+    src: url('MarkOT-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MarkOT-Medium.woff2') format('woff2'),
+        url('MarkOT-Medium.woff') format('woff'),
+        url('MarkOT-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark OT';
+    src: url('MarkOT-Light.eot');
+    src: url('MarkOT-Light.eot?#iefix') format('embedded-opentype'),
+        url('MarkOT-Light.woff2') format('woff2'),
+        url('MarkOT-Light.woff') format('woff'),
+        url('MarkOT-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark OT';
+    src: url('MarkOT-Bold.eot');
+    src: url('MarkOT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MarkOT-Bold.woff2') format('woff2'),
+        url('MarkOT-Bold.woff') format('woff'),
+        url('MarkOT-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark OT Book';
+    src: url('MarkOT-Book.eot');
+    src: url('MarkOT-Book.eot?#iefix') format('embedded-opentype'),
+        url('MarkOT-Book.woff2') format('woff2'),
+        url('MarkOT-Book.woff') format('woff'),
+        url('MarkOT-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
